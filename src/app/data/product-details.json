@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name" : "WINGS Nuvobook VI Aluminium Alloy Metal Body Intel Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/ Windows II Home) WL- Nuvobook VI-RED Thin and Light Laptop (15.6 Inch, Red, 1.60 Kg)",
+        "price" : 50000,
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08192495_1_9.png",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat.",
+        "features": [
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line"
+        ]
+    },
+    {
+        "id": 2,
+        "name" : "WINGS Nuvobook VI Aluminium Alloy Metal Body Intel Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/ Windows II Home) WL- Nuvobook VI-RED Thin and Light Laptop (15.6 Inch, Red, 1.60 Kg)",
+        "price" : 50000,
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08192495_1_9.png",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat.",
+        "features": [
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line"
+        ]
+    },
+    {
+        "id": 3,
+        "name" : "WINGS Nuvobook VI Aluminium Alloy Metal Body Intel Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/ Windows II Home) WL- Nuvobook VI-RED Thin and Light Laptop (15.6 Inch, Red, 1.60 Kg)",
+        "price" : 50000,
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08192495_1_9.png",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat.",
+        "features": [
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line"
+        ]
+    },
+    {
+        "id": 4,
+        "name" : "WINGS Nuvobook VI Aluminium Alloy Metal Body Intel Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/ Windows II Home) WL- Nuvobook VI-RED Thin and Light Laptop (15.6 Inch, Red, 1.60 Kg)",
+        "price" : 50000,
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08192495_1_9.png",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat.",
+        "features": [
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line",
+            "Feature in one line"
+        ]
+    }
+]
