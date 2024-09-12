@@ -5,6 +5,7 @@ import ProductComparision from "./components/ProductComparision";
 import data from "./data/product-details.json";
 import { useState } from "react";
 import { PiStarFourFill } from "react-icons/pi";
+import DocViewer, { DocViewerRenderers } from "@cyntler/react-doc-viewer";
 
 export interface TProduct {
   id: number;
@@ -185,6 +186,14 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <DocViewer
+            documents={[
+                {
+                    uri: "https://storage.googleapis.com/adya_upload_pdf/company/2/spaces/sample-test/cbd79471-e44c-4197-a289-8d0970231319.pdf"
+                },
+            ]}
+            pluginRenderers={DocViewerRenderers}
+        />
     </main>
   );
 }
